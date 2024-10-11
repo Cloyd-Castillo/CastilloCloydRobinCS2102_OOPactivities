@@ -59,7 +59,7 @@ public class Car
         return String.format("Car (%s) - P(%.2f) - (%s)", color, price, sizeDescriptor);
     }
 
-    //If an output is needed then, use this
+    //If an output is needed, then use this
     /*
     public static void main(String[] args) 
     {
